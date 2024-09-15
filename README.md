@@ -1,6 +1,4 @@
-# LSMTree-DataStore-Java
-
-# COSI-167A: Advanced Data Systems - TemplateDB
+# COSI-167A: Advanced Data Systems - LSMTree-DataStore-Java (TemplateDB)
 
 ## About
 
